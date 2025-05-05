@@ -2,7 +2,7 @@
 
 A sophisticated blog generation tool that leverages advanced prompt engineering techniques with the DeepSeek API to create high-quality, SEO-optimized blog posts.
 
-!Blog Generator (https://v0-ai-blog-generator-rho.vercel.app/)
+# ✍️ AI Blog Generator — [Live Demo 🚀](https://v0-ai-blog-generator-rho.vercel.app/)
 
 ## 🚀 Features
 
